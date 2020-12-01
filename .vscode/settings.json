@@ -9,5 +9,8 @@
         "queue": "cpp",
         "xiosbase": "cpp"
     },
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cSpell.words": [
+        "mpsubs"
+    ]
 }

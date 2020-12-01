@@ -25,10 +25,7 @@ int main()
                 }
                 cnt[s[j] - 'a']++;
                 if(count == k) res++;
-                else if(count > k)
-                {
-                    break;
-                }
+                else if(count > k) break;
             }
         }
         cout << res << endl;
