@@ -16,13 +16,13 @@ int main()
             {
                 sum = sum * 10 + (s[i] - '0');
             }
-        else
-        {
-            res += sum;
-            sum = 0;
+            else
+            {
+                res += sum;
+               sum = 0;
+            }
         }
-    }
-    cout << res << endl;
+        cout << res << endl;
     }
     return 0;
 }
