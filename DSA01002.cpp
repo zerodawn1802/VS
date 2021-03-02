@@ -11,10 +11,30 @@ void input()
 }
 void nextGen()
 {
+    int dd = 0;
     for(int i = k; i >= 1; i--)
     {
-        if()
+        if(a[i] != n - k + i)
+        {
+            a[i] += 1;
+            dd = i;
+            break;
+        }
     }
+    if(dd == 0)
+    {
+        for(int i = 1; i <= k; i++) cout << i << " ";
+    }
+    else for(int i = 1; i <= k; i++)
+    {
+        if(i <= dd) cout << a[i] << " ";
+        else
+        {
+            a[i] = a[i - 1] + 1;
+            cout << a[i] << " ";
+        }
+    }
+    cout << endl;
 }
 int main()
 {
@@ -22,6 +42,7 @@ int main()
     cin >> t;
     while(t--)
     {
-        
+        input();
+        nextGen();
     }
 }
