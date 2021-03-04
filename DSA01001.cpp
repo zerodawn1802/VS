@@ -4,7 +4,7 @@ void process()
 {
     string s;
     cin >> s;
-    int k = s.size(), dd = k;
+    int k = s.size(), dd = k, dem = 0;
     for(int i = k - 1; i >= 0; i--)
     {
         if(s[i] == '0')
@@ -13,12 +13,17 @@ void process()
             s[i] = '1';
             break;
         }
+        else dem++;
     }
-    for(int i = 0; i < k; i++)
+    if(dem != k)
     {
-        if(i <= dd) cout << s[i];
-        else cout << '0';
+        for(int i = 0; i < k; i++)
+        {
+            if(i <= dd) cout << s[i];
+            else cout << '0';
+        }
     }
+    else for(int i = 0; i < k; i++) cout << '0';
     cout << endl;
 }
 int main()
