@@ -1,27 +1,21 @@
 #include <bits/stdc++.h>
-#define ll long long
-#define fori(i,a,b) for (ll i = a; i < b; i++)
-#define forr(i,a,b) for (ll i = a - 1; i >= b; i--)
-#define pb push_back
-#define mp make_pair
-#define F fist
-#define S second
 using namespace std;
-
 bool stop;
-int k,n;
+int k, n;
 int a[30];
-long long res=1e18;
-
+long long res = 1e18;
 void Try(int i)
 {
-	fori (j,0,2){
+	for(int j = 0; j < 2; j++)
+	{
 		a[i] = j;
-		if (i == k) {
-			ll s = 0;
-			fori(i,1,k + 1) s = s * 10 + a[i];
+		if (i == k)
+		{
+			long long s = 0;
+			for(int i = 1; i <= k; i++) s = s * 10 + a[i];
 			s *= 9;
-			if(s % n == 0&& s >= n){
+			if(s % n == 0 && s >= n)
+			{
 				res = min (res, s);
 				stop = 1;
 			}
@@ -29,23 +23,25 @@ void Try(int i)
 		else Try (i + 1);
 	}
 }
-
-void xl(){
+void xl()
+{
 	cin >> n;
 	k = 1;
 	stop = 0;
 	res = 1e18;
-	while (!stop){
+	while (!stop)
+	{
 		Try(1);
 		k++;
 	}
-	cout << res <<"\n";
+	cout << res << endl;
 }
 int main()
 {
-	int T;
-	cin >> T;
-	while (T--){
+	int t;
+	cin >> t;
+	while (t--)
+	{
 		xl();
 	}
 	return 0;

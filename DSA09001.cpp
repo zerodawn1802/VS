@@ -4,7 +4,7 @@ void process()
 {
     int n, e;
     cin >> n >> e;
-    int a[n+1][n+1] = {0};
+    int a[n + 1][n + 1] = {0};
     for(int i = 0; i < e; i++)
     {
         int x, y;

@@ -1,28 +1,20 @@
 #include <bits/stdc++.h>
-#define fastIO() ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-#define ll long long
-#define fori(i,a,b) for (ll i = a; i < b; i++)
-#define forr(i,a,b) for (ll i = a - 1; i >= b; i--)
-#define pb push_back
-#define mp make_pair
-#define F first
-#define S second
-#define ull unsigned long long
 using namespace std;
-
 int n, m, x;
 int a[200][200];
-
-void xl(){
-	// dua ve day con dai nhat co tong bang k;
+void xl()
+{
 	cin >> n >> m;
-	fori(i,0,n){
-		fori(j,0,m) cin >> x;
+	for(int i = 0; i < n; i++)
+	{
+		for(int j = 0; j < m; j++) cin >> x;
 	}
-	fori(i,0,m) a[0][i] = 1;
-	fori(i,0,n) a[i][0] = 1;
-	fori(i,1,n){
-		fori(j,1,m){
+	for(int i = 0; i < m; i++) a[0][i] = 1;
+	for(int i = 0; i < n; i++) a[i][0] = 1;
+	for(int i = 1; i < n; i++)
+	{
+		for(int j = 1; j < m; j++)
+		{
 			a[i][j] = a[i - 1][j] + a[i][j - 1];
 		}
 	}
@@ -31,13 +23,13 @@ void xl(){
 	cout << a[n][m];
 }
 
-int main(){
-	fastIO();
-	int T; 
-	//T = 1;
-	cin >> T;
-	while (T -- ){
+int main()
+{
+	int t; 
+	cin >> t;
+	while (t -- )
+	{
 		xl();
-		cout << "\n";
+		cout << endl;
 	}
 }

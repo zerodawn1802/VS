@@ -9,7 +9,9 @@
         "queue": "cpp",
         "xiosbase": "cpp",
         "ostream": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "cSpell.words": [

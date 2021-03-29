@@ -1,19 +1,17 @@
 #include<bits/stdc++.h>
-#define fori(i,a,b) for(long long i = a; i < b; i++)
-#define forr(i,a,b) for(long long i = a-1;i >= b; i--)
 #define ll long long
 using namespace std;
-
 const int oo = 1e6 + 1;
 bool a[oo];
 int n, x, y, k;
-
-void xl(){
+void xl()
+{
 	cin >> n;
 	cin >> x;
 	y = x;
 	a[x] = 1;
-	fori (i,1,n){
+	for(ll i = 1; i < n; i++)
+	{
 		cin >> k;
 		a[k] = 1;
 		x = min (k, x);
@@ -21,20 +19,20 @@ void xl(){
 	}
 	a[x] = 0; a[y] = 0;
 	int dem = 0;
-	fori (i, x + 1, y){
-		// cout << i <<" " << a[i] <<"\n";
+	for(ll i = x + 1; i < y; i++)
+	{
 		if(!a[i]) dem ++;
 		else a[i] = 0;
 	}
 	cout << dem;
-
 }
-
-int main(){
-	int T;
-	cin >> T;
-	while (T--){
+int main()
+{
+	int t;
+	cin >> t;
+	while (t--)
+	{
 		xl();
-		cout << "\n";
+		cout << endl;
 	}
 }

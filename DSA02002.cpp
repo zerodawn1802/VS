@@ -1,42 +1,36 @@
 #include <bits/stdc++.h>
-#define ll long long
-#define fori(i,a,b) for (ll i = a; i < b; i++)
-#define forr(i,a,b) for (ll i = a - 1; i >= b; i--)
-#define pb push_back
-#define mp make_pair
-#define F fist
-#define S second
 using namespace std;
-
 int n;
 vector <vector <int> > v;
 vector <int> a;
-
-void xl(){
+void process()
+{
 	cin >> n;
 	a.resize(n);
-	fori(i,0,n) cin >> a[i];
-	v.pb(a);
-	while(-- n){
-		fori(i,0,n) a[i] = a[i] + a[i + 1];
-		v.pb(a);
+	for(int i = 0; i < n; i++) cin >> a[i];
+	v.push_back(a);
+	while(--n)
+	{
+		for(int i = 0; i < n; i++) a[i] = a[i] + a[i + 1];
+		v.push_back(a);
 	}
 	n = 1;
-	forr(i,v.size(), 0){
+	for(int i = v.size() - 1; i >= 0; i--)
+	{
 		cout << "[" << v[i][0];
-		fori(j,1,n) cout << " " << v[i][j];
+		for(int j = 1; j < n; j++) cout << " " << v[i][j];
 		cout << "] ";
 		n++;
 	}
 	v.clear();
 	a.clear();
-	
 }
 int main(){
-	int T;
-	cin >> T;
-	while (T -- ){
-		xl();
+	int t;
+	cin >> t;
+	while (t -- )
+	{
+		process();
 		cout << "\n";
 	}
 }

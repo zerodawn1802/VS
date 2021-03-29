@@ -1,38 +1,35 @@
 #include <bits/stdc++.h>
-#define fastIO() ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-#define ll long long
-#define fori(i,a,b) for (ll i = a; i < b; i++)
-#define forr(i,a,b) for (ll i = a - 1; i >= b; i--)
-#define pb push_back
-#define mp make_pair
-#define F fist
-#define S second
 using namespace std;
 
 int n;
-ll a[1000], k;
+long long a[1000], k;
 bool check = 0;
-
-void Try(int vt, ll sum){
-	fori(i,vt ,n){
+void Try(int vt, long long sum)
+{
+	for(int i = vt; i < n; i++)
+	{
 		if (check == 1 || sum + a[i] > k / 2) return;
 		if (sum + a[i] < k / 2) Try(i, sum + a[i]);
-		else if(sum + a[i] == k / 2) {
+		else if(sum + a[i] == k / 2)
+		{
 			check = 1;
 			return;
 		}
 	}
 }
 
-void xl(){
+void xl()
+{
 	check = 0;
 	cin >> n;
 	k = 0;
-	fori(i,0,n) {
+	for(int i = 0; i < n; i++)
+	{
 		cin >> a[i];
 		k += a[i];
 	}
-	if (k % 2 ) {
+	if (k % 2)
+	{
 		cout << "NO";
 		return;
 	}
@@ -42,13 +39,13 @@ void xl(){
 	else cout << "NO";
 }
 
-int main(){
-	fastIO();
-	int T; 
-	//T = 1;
-	cin >> T;
-	while (T -- ){
+int main()
+{
+	int t; 
+	cin >> t;
+	while (t -- )
+	{
 		xl();
-		cout << "\n";
+		cout << endl;
 	}
 }

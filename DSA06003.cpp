@@ -1,39 +1,34 @@
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<algorithm>
 using namespace std;
-struct data
-{
-    int gt, pos;
-};
-bool cmp(data a, data b)
-{
-    if(a.gt < b.gt) return true;
-    if(a.gt == b.gt && a.pos < b.pos) return true;
-    return false;
+int solve(vector<int> v, vector<int> x) {
+	int ans = 0;
+	for (int i = 0; i < v.size(); i++) {
+		if (v[i] == x[i])
+			continue;
+		for (int j = i + 1; j < v.size(); j++)
+			if (v[j] == x[i]) {
+				swap(v[j], v[i]);
+				ans++;
+				break;
+			}
+	}
+	return ans;
 }
-int main()
-{
-    int t;
-    cin >> t;
-    while(t--)
-    {
-        int n;
-        cin >> n;
-        vector<data> a(n);
-        for(int i = 0; i < n; i++)
-        {
-            cin >> a[i].gt;
-            a[i].pos = i;
-        }
-        sort(a.begin(), a.end(), cmp);
-        int res = 0;
-        for(int i = 0; i < n; i++)
-        {
-            while(a[i].pos != i)
-            {
-                res++;
-                swap(a[i], a[a[i].pos]);
-            }
-        }
-        cout << res << endl;
-    }
+
+int main() {
+	int t;	cin >> t;
+	while (t--) {
+		int n;	cin >> n;
+		vector<int> v(n, 0);
+		for (int i = 0; i < n; i++)
+			cin >> v[i];
+
+		vector<int> x = v;
+		sort(x.begin(), x.end());
+
+		cout << solve(v, x) << endl;
+	}
+	return 0;
 }

@@ -1,25 +1,23 @@
 #include<bits/stdc++.h>
-#define fori(i,a,b) for(long long i = a; i < b; i++)
-#define forr(i,a,b) for(long long i = a-1;i >= b; i--)
 #define ll long long
 using namespace std;
-
 const int oo = 1e6 + 1;
 int a[oo];
 int n;
-
-void xl(){
+void xl()
+{
 	cin >> n;
-	fori(i,0,n) cin >> a[i];
-	sort (a, a + n);
-	fori (i,0,n) cout << a[i] << " ";
+	for(ll i = 0; i < n; i++) cin >> a[i];
+	sort(a, a + n);
+	for(ll i = 0; i < n; i++) cout << a[i] << " ";
 }
-
-int main(){
-	int T;
-	cin >> T;
-	while (T--){
+int main()
+{
+	int t;
+	cin >> t;
+	while (t--)
+	{
 		xl();
-		cout << "\n";
+		cout << endl;
 	}
 }

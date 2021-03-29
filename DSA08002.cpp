@@ -1,23 +1,22 @@
 #include<bits/stdc++.h>
-#define fori(i,a,b) for(long long i = a; i < b; i++)
-#define forr(i,a,b) for(long long i = a-1;i >= b; i--)
-#define ll long long
 using namespace std;
-
 int n;
-
-void xl(){
+void xl()
+{
 	deque <int> q;
 	cin >> n;
 	int x;
 	string s;
-	while (n--){
+	while (n--)
+	{
 		cin >> s;
-		if (s == "PUSH"){
+		if (s == "PUSH")
+		{
 			cin >> x;
 			q.push_back (x);
 		}
-		else if (s == "PRINTFRONT"){
+		else if (s == "PRINTFRONT")
+		{
 			if(q.empty()) cout <<"NONE\n";
 			else cout << q.front() <<"\n";
 		}
@@ -25,14 +24,13 @@ void xl(){
 
 	}
 }
-
-int main(){
-	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-	int T;
-	T = 1;
-	//cin >> T;
-	while (T--){
+int main()
+{
+	int t;
+	t = 1;
+	while (t--)
+	{
 		xl();
-		cout << "\n";
+		cout << endl;
 	}
 }

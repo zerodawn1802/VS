@@ -1,31 +1,31 @@
 #include<bits/stdc++.h>
-#define fori(i,a,b) for(int i=a;i<b;i++)
-#define forr(i,a,b) for(int i=a-1;i>=b;i--)
 #define ll long long
 using namespace std;
-
 const int oo = 1e5 + 1;
 ll a[3];
 int x;
 ll n;
-
-void xl(){
+void xl()
+{
 	cin >> n;
-	fori(i,0,n) {
+	for(int i = 0; i < n; i++)
+	{
 		cin >> x;
 		a[x] ++;
 	}
-	fori(i,0,3){
-		fori(j,0,a[i]) cout << i <<" ";
+	for(int i = 0; i < 3; i++)
+	{
+		for(int j = 0; j < a[i]; j++) cout << i << " ";
 		a[i] = 0;
 	}
-	cout <<"\n";
+	cout << endl;
 }
-
-int main(){
-	int T;
-	cin >> T;
-	while (T--){
+int main()
+{
+	int t;
+	cin >> t;
+	while (t--)
+	{
 		xl();
 	}
 }

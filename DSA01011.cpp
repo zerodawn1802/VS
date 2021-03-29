@@ -1,33 +1,34 @@
 #include <bits/stdc++.h>
 using namespace std;
 string s;
-void next_permutation()
+void nextp()
 {
-	int i,j;
-	i=s.size()-2;
-	while (i>=0&&s[i]>=s[i+1]) i--;
-	if(i<0)
+	int i, j;
+	i = s.size() - 2;
+	while (i >= 0 && s[i] >= s[i + 1]) i--;
+	if(i < 0)
 	{
-		cout<<"BIGGEST\n";
+		cout << "BIGGEST" << endl;
 		return;
 	}
-	j=s.size()-1;
-	while(s[i]>=s[j]) j--;
-	swap(s[i],s[j]);
-	sort(s.begin()+i+1,s.end());
-	cout<<s<<"\n";
+	j = s.size() - 1;
+	while(s[i] >= s[j]) j--;
+	swap(s[i], s[j]);
+	sort(s.begin() + i + 1, s.end());
+	cout << s << endl;
 }
 int main()
 {
-	ios_base::sync_with_stdio(0);cin.tie(0);
-	int t,dem;
-	cin>>t;
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+	int t, dem;
+	cin >> t;
 	while(t--)
 	{
-		cin>>dem;
-		cout<<dem<<" ";
-		cin>>s;
-		next_permutation();
+		cin >> dem;
+		cout << dem << " ";
+		cin >> s;
+		nextp();
 	}
 	return 0;
 }

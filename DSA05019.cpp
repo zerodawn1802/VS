@@ -1,48 +1,43 @@
 #include <bits/stdc++.h>
 #define ll long long
-#define fori(i,a,b) for(int i=a;i<b;i++)
-#define forr(i,a,b) for(int i=a-1;i>=b;i--)
 using namespace std;
-const long long oo=1e9+7;
+const ll oo = 1e9 + 7;
 int a[1000][1000];
-int m,n;
+int m, n;
 int main()
 {
-	ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
-	int t,m,n,ans;
-	cin>>t;
+	int t, m, n, ans;
+	cin >> t;
 	while(t--)
 	{
-		ans=0;
-		cin>>m>>n;
-		fori(i,1,m+1)
+		ans = 0;
+		cin >> m >> n;
+		for(int i = 1; i < m + 1; i++)
 		{
-			fori(j,1,n+1) 
+			for(int j = 1; j < n + 1; j++) 
 			{
-				cin>>a[i][j];
-				if(a[i][j]) a[i][j]=a[i-1][j]+1;
+				cin >> a[i][j];
+				if(a[i][j]) a[i][j] = a[i - 1][j] + 1;
 			}
 			stack <ll> k;
 			int left[1005];
 			int right[1005];
-			for(long long j=1;j<=n;j++)
+			for(ll j = 1; j <= n; j++)
 	        {
-	            while(!k.empty()&&a[i][j]<=a[i][k.top()]) k.pop();
-	            left[j]= k.empty()? 0: k.top();
+	            while(!k.empty() && a[i][j] <= a[i][k.top()]) k.pop();
+	            left[j] = k.empty() ? 0 : k.top();
 	            k.push(j);
 	        }
 	        while (!k.empty()) k.pop();
-	        for(long long j=n;j>0;j--)
+	        for(ll j = n; j > 0; j--)
 	        {
-	            while(!k.empty()&&a[i][j]<=a[i][k.top()]) k.pop();
-	            right[j]= k.empty()? n+1: k.top();
+	            while(!k.empty() && a[i][j] <= a[i][k.top()]) k.pop();
+	            right[j] = k.empty()? n+1: k.top();
 	            k.push(j);
 	        }
-	        for(long long j=1;j<=n;j++) ans=max(ans,min(a[i][j],right[j]-left[j]-1));
+	        for(ll j = 1; j <= n; j++) ans = max(ans, min(a[i][j], right[j] - left[j] - 1));
 		}
-		cout<<ans<<"\n";
+		cout << ans << "\n";
 	}
-
-
 	return 0;
 }
