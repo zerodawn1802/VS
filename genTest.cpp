@@ -11,9 +11,8 @@ void writeTest(string path)
     f << T << endl;
     for(int i = 0; i < T; i++)
     {
-        int so1 = rnd.next(1, (int)(1e7));
-        int so2 = rnd.next(1, (int)(1e7));
-        f << so1 << ' ' << so2 << endl;
+        int so1 = rnd.next(1, (int)(1e6));
+        f << so1 << endl;
     }
 }
 int main(int argc, char* argv[])
