@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int dd[1000006];
-// vector<int> a;
 void snt()
 {
     for(int i = 0; i < 1000006; i++) dd[i] = 1;
@@ -11,10 +10,6 @@ void snt()
         if(dd[i] == 0) continue;
         for(int j = 2 * i; j < 1000006; j += i) dd[j] = 0;
     }
-    // for(int i = 0; i < 1000006; i++)
-    // {
-    //     if(dd[i] == 1) a.push_back(i);
-    // }
 }
 int main()
 {

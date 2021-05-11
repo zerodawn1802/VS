@@ -11,8 +11,14 @@ void writeTest(string path)
     f << T << endl;
     for(int i = 0; i < T; i++)
     {
-        int so1 = rnd.next(1, (int)(1e6));
+        int so1 = rnd.next(1, (int)(100));
         f << so1 << endl;
+        while(so1--)
+        {
+            int so2 = rnd.next(1, (int)(500));
+            f << so2 << " ";
+        }
+        f << endl;
     }
 }
 int main(int argc, char* argv[])
