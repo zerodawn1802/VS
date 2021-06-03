@@ -41,9 +41,9 @@ int main()
 {
 	int t;
 	cin >> t;
-	while (t-- )
+	while (t--)
 	{
 		xl();
-		cout << endl
+		cout << endl;
 	}
 }
