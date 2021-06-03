@@ -23,8 +23,9 @@ void Try(int s, int tmp)
 		Try(s + a[i], tmp);
 	}
 }
-void init()
+void process()
 {
+	cin >> n >> k;
 	sum = 0;
 	a.clear();
 	a.resize(n);
@@ -33,11 +34,6 @@ void init()
 	dd.clear();
 	dd.resize(n + 1, 0);
 	ok = 0;
-}
-void solve()
-{
-	cin >> n >> k;
-	init();
 	for(int i = 0; i < n; i++) 
 	{
 		cin >> a[i];
@@ -55,5 +51,5 @@ int main()
 {
 	int t;
 	cin >> t;
-	while (t--) solve();
+	while (t--) process();
 }

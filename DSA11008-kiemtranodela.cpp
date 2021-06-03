@@ -108,7 +108,7 @@ void solve()
 }
 int main()
 {
-    int t = 1;
+    int t;
     cin >> t;
     while (t--) solve();
     return 0;
