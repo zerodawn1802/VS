@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>
-#define mp make_pair
 using namespace std;
 vector<vector<int> > x;
 vector<int> trace;
@@ -10,22 +9,22 @@ int bfs(int s, int t)
     dd.clear();
     dd.resize(V + 1, 0);
     queue<pair<int, int> > q;
-    q.push(mp(s, 0));
+    q.push(make_pair(s, 0));
     while (!q.empty())
     {
         int u = q.front().first;
-		int w = q.front().second;
+		int way = q.front().second;
         q.pop();
         if (u == t)
 		{
-			return w;
+			return way;
 		}
         for(int i = 0; i < x[u].size(); i++)
         {
             int v = x[u][i];
             if (dd[v] == 0)
             {
-                q.push(mp(v, w + 1));
+                q.push(make_pair(v, way + 1));
                 dd[v] = 1;
             }
         }
@@ -38,7 +37,7 @@ void solve()
 	E = V;
     x.clear();
     x.resize(V + 1);
-    for(int i = 0; i < E; i++)
+    for(int i = 1; i < E; i++)
     {
         int a, b;
         cin >> a >> b;
