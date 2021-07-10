@@ -11,21 +11,13 @@ void writeTest(string path)
     f << T << endl;
     for(int i = 0; i < T; i++)
     {
-        int a[21] = {0};
-        int so1 = rnd.next(1, (int)(20));
-        f << so1 << " ";
-        int so2 = rnd.next(1, (int)so1);
-        f << so2 << endl;
+        int so1 = rnd.next(1, (int)(100));
+        f << so1 << endl;
         for(int j = 0; j < so1; j++)
         {
-            int so3;
-            while(1)
-            {
-                so3 = rnd.next(1, (int)(20));
-                if(a[so3] == 0) break;
-            }
-            a[so3] = 1;
-            f << so3 << " ";
+            int so3 = rnd.next((int)-1e9, (int)(1e9));
+            int so4 = rnd.next((int)-1e9, (int)(1e9));
+            f << so3 << " " << so4 << endl;
         }
         f << endl;
     }
