@@ -22,6 +22,9 @@ int main()
 		int n;
 		cin >> n;
 		int a[n], k = -1;
+		int res = 1;
+		// for(int i = 1; i <= n; i++) res *= i;
+		// cout << res << endl;
 		for(int i = 0; i < n; i++)
 		{
 			a[i] = n - i;

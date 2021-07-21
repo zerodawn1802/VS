@@ -1,0 +1,606 @@
+
+</>
+1|HELLO|Hello World|||1|2527
+</>
+2|DSA06023|SẮP XẾP ĐỔI CHỖ TRỰC TIẾP|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|1481
+</>
+3|DSA06024|SẮP XẾP CHỌN|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|1682
+</>
+4|DSA06025|SẮP XẾP CHÈN|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|1634
+</>
+5|DSA06026|SẮP XẾP NỔI BỌT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|1611
+</>
+6|DSA07021|DÃY NGOẶC ĐÚNG DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|1253
+</>
+7|DSA09001|CHUYỂN DANH SÁCH CẠNH SANG DANH SÁCH KỀ|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|1194
+</>
+8|DSA09002|CHUYỂN TỪ DANH SÁCH KỀ SANG DANH SÁCH CẠNH|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|931
+</>
+9|DSA09003|BIỂU DIỄN ĐỒ THỊ CÓ HƯỚNG.|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|999
+</>
+10|DSA09004|DFS TRÊN ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|1035
+</>
+11|DSA09005|BFS TRÊN ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|884
+</>
+12|DSA01001|XÂU NHỊ PHÂN KẾ TIẾP|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1455
+</>
+13|DSA01002|TẬP CON KẾ TIẾP|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1310
+</>
+14|DSA01003|HOÁN VỊ KẾ TIẾP|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1320
+</>
+15|DSA01007|XÂU AB CÓ ĐỘ DÀI N|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1612
+</>
+16|DSA01004|SINH TỔ HỢP|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1366
+</>
+17|DSA01005|SINH HOÁN VỊ|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1344
+</>
+18|DSA01006|HOÁN VỊ NGƯỢC|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1327
+</>
+19|DSA01008|XÂU NHỊ PHÂN CÓ K BIT 1|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|1368
+</>
+20|DSA02001|DÃY SỐ 1|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|1145
+</>
+21|DSA02002|DÃY SỐ 2|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|1009
+</>
+22|DSA02005|HOÁN VỊ XÂU KÝ TỰ|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|1155
+</>
+23|DSA02003|DI CHUYỂN TRONG MÊ CUNG 1|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|980
+</>
+24|DSA02006|DÃY CON TỔNG BẰNG K|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|977
+</>
+25|DSA05009|TẬP CON BẰNG NHAU|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|961
+</>
+26|DSA02012|DI CHUYỂN TRONG MA TRẬN|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|1011
+</>
+27|DSA02016|SẮP XẾP QUÂN HẬU 1|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|1|793
+</>
+28|DSA03001|ĐỔI TIỀN|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1173
+</>
+29|DSA03002|NHẦM CHỮ SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1167
+</>
+30|DSA03003|TÌM MAX|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1020
+</>
+31|DSA03004|TỔNG NHỎ NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1035
+</>
+32|DSA03005|CHIA MẢNG THÀNH HAI MẢNG CON CÓ TỔNG LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|959
+</>
+33|DSA03006|SẮP XẾP THAM LAM|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1054
+</>
+34|DSA03010|NỐI DÂY 1|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1082
+</>
+35|DSA03012|SẮP ĐẶT XÂU KÝ TỰ 1|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|1015
+</>
+36|DSA03013|SẮP ĐẶT XÂU KÝ TỰ 2|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|847
+</>
+37|DSA03015|MUA LƯƠNG THỰC|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|979
+</>
+38|DSA04001|LŨY THỪA|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|1118
+</>
+39|DSA04004|GẤP ĐÔI DÃY SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|1001
+</>
+40|DSA04003|ĐẾM DÃY|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|991
+</>
+41|DSA04005|DÃY XÂU FIBONACI|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|974
+</>
+42|DSA04002|LŨY THỪA ĐẢO|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|926
+</>
+43|DSA04010|DÃY CON LIÊN TIẾP CÓ TỔNG LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|893
+</>
+44|DSA04015|TÍNH FLOOR(X)|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|891
+</>
+45|DSA04016|PHẦN TỬ THỨ K|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|941
+</>
+46|DSA04017|PHẦN TỬ KHÁC NHAU|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|948
+</>
+47|DSA04018|ĐẾM SỐ 0|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|1037
+</>
+48|DSA05001|XÂU CON CHUNG DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|989
+</>
+49|DSA05004|DÃY CON TĂNG DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|1101
+</>
+50|DSA05008|DÃY CON CÓ TỔNG BẰNG S|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|858
+</>
+51|DSA05012|TỔ HỢP C(n, k)|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|997
+</>
+52|DSA05013|BẬC THANG|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|975
+</>
+53|DSA05002|DÃY CON LẶP LẠI DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|737
+</>
+54|DSA05005|SỐ BƯỚC ÍT NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|823
+</>
+55|DSA05025|CON ẾCH|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|1073
+</>
+56|DSA05026|XEM PHIM|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|709
+</>
+57|DSA05027|CÁI TÚI|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|921
+</>
+58|DSA05029|GIẢI MÃ|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|1|698
+</>
+59|DSA06001|SẮP XẾP XEN KẼ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|934
+</>
+60|DSA06002|SẮP XẾP THEO GIÁ TRỊ TUYỆT ĐỐI|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|796
+</>
+61|DSA06003|ĐỔI CHỖ ÍT NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|451
+</>
+62|DSA06004|HỢP VÀ GIAO CỦA HAI DÃY SỐ 1|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|846
+</>
+63|DSA06005|HỢP VÀ GIAO CỦA HAI DÃY SỐ 2|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|828
+</>
+64|DSA06006|SẮP XẾP [0 1 2]|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|907
+</>
+65|DSA06007|SẮP XẾP DÃY CON LIÊN TỤC|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|794
+</>
+66|DSA06008|ĐẾM CẶP|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|483
+</>
+67|DSA06009|CẶP SỐ TỔNG BẰNG K|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|856
+</>
+68|DSA06010|SẮP XẾP CHỮ SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|764
+</>
+69|DSA06011|TỔNG GẦN 0 NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|832
+</>
+70|DSA06012|PHẦN TỬ LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|852
+</>
+71|DSA06013|SỐ LẦN XUẤT HIỆN|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|925
+</>
+72|DSA06014|TỔNG CẶP SỐ NGUYÊN TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|784
+</>
+73|DSA06015|MERGE SORT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|818
+</>
+74|DSA06016|TÍCH LỚN NHẤT - NHỎ NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|839
+</>
+75|DSA06017|TRỘN HAI DÃY|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|797
+</>
+76|DSA06018|BỔ SUNG PHẦN TỬ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|755
+</>
+77|DSA06019|SẮP XẾP THEO SỐ LẦN XUẤT HIỆN|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|707
+</>
+78|DSA06020|TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|833
+</>
+79|DSA06021|TÌM KIẾM TRONG DÃY SẮP XẾP VÒNG|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|766
+</>
+80|DSA06022|SỐ NHỎ NHẤT VÀ NHỎ THỨ HAI|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|876
+</>
+81|DSA07001|NGĂN XẾP 1|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|1112
+</>
+82|DSA07002|NGĂN XẾP 2|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|972
+</>
+83|DSA07003|KIỂM TRA BIỂU THỨC SỐ HỌC|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|870
+</>
+84|DSA07004|ĐẾM SỐ DẤU NGOẶC ĐỔI CHIỀU|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|837
+</>
+85|DSA07009|BIẾN ĐỔI TIỀN TỐ - TRUNG TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|837
+</>
+86|DSA07010|BIẾN ĐỐI TIỀN TỐ - HẬU TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|950
+</>
+87|DSA07013|TÍNH GIÁ TRỊ BIỂU THỨC HẬU TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|832
+</>
+88|DSA07014|TÍNH GIÁ TRỊ BIỂU THỨC TIỀN TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|1|881
+</>
+89|DSA07027|PHẦN TỬ BÊN PHẢI ĐẦU TIÊN LỚN HƠN|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|1|689
+</>
+90|DSA08001|CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 1|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|933
+</>
+91|DSA08002|CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 2|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|862
+</>
+92|DSA08003|HÀNG ĐỢI HAI ĐẦU (DEQUEUE)|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|924
+</>
+93|DSA08005|SỐ NHỊ PHÂN TỪ 1 ĐẾN N|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|873
+</>
+94|DSA08006|SỐ 0 VÀ SỐ 9|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|968
+</>
+95|DSA08007|SỐ BDN 1|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|906
+</>
+96|DSA08008|SỐ BDN 2|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|788
+</>
+97|DSA09013|LIỆT KÊ CẠNH CẦU|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|555
+</>
+98|DSA10004|ĐƯỜNG ĐI VÀ CHU TRÌNH EULER VỚI ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|465
+</>
+99|DSA10005|CHU TRÌNH EULER TRONG ĐỒ THỊ CÓ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|1|467
+</>
+100|DSA04020|TÌM KIẾM NHỊ PHÂN|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|1|900
+
+
+</>
+101|DSA08017|SỐ LỘC PHÁT 1|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|660
+</>
+102|DSA08018|SỐ LỘC PHÁT 2|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|644
+</>
+103|DSA08019|SỐ LỘC PHÁT 3|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|1|634
+</>
+104|DSA03034|DÃY CON CHUNG|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|449
+</>
+105|DSA03035|SẮP XẾP ĐƠN GIẢN|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|161
+</>
+106|CTDL_001|THUẬT TOÁN SINH|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|843
+</>
+107|CTDL_002|Tổng dãy con = K|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|628
+</>
+108|DSA01019|HAHAHA|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|579
+</>
+109|DSA01020|XÂU NHỊ PHÂN TRƯỚC|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|684
+</>
+110|DSA03022|TÍCH LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|1|407
+</>
+111|DSA01025|ĐẶT TÊN|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|1|492
+</>
+112|CTDL_005|XÓA DỮ LIỆU TRONG DSLK ĐƠN|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Sắp xếp - Tìm kiếm|1|500
+</>
+113|CTDL_006|LỌC DỮ LIỆU TRÙNG TRONG DSLK ĐƠN|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Sắp xếp - Tìm kiếm|1|447
+</>
+114|DSA07023|ĐẢO TỪ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|1|599
+</>
+115|DSA06040|GIAO CỦA BA DÃY SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|1|447
+</>
+116|DSA09021|CHUYỂN MA TRẬN KỀ SANG DANH SÁCH KỀ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|688
+</>
+117|DSA09020|CHUYỂN DANH SÁCH KỀ SANG MA TRẬN KỀ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|630
+</>
+118|DSA09022|DFS TRÊN ĐỒ THỊ CÓ HƯỚNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|725
+</>
+119|DSA09024|BFS TRÊN ĐỒ THỊ CÓ HƯỚNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|846
+</>
+120|DSA09025|ĐƯỜNG ĐI THEO DFS VỚI ĐỒ THỊ CÓ HƯỚNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|613
+</>
+121|DSA09026|ĐƯỜNG THI THEO BFS TRÊN ĐỒ THỊ CÓ HƯỚNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|595
+</>
+122|DSA09027|KIỂM TRA ĐƯỜNG ĐI|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|1|701
+</>
+123|DSA07019|HÌNH CHỮ NHẬT LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|478
+</>
+124|DSA09006|ĐƯỜNG ĐI THEO DFS VỚI ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|690
+</>
+125|DSA09007|ĐƯỜNG ĐI THEO BFS TRÊN ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|660
+</>
+126|DSA09008|ĐẾM SỐ THÀNH PHẦN LIÊN THÔNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|595
+</>
+127|DSA09018|LIỆT KÊ ĐỈNH TRỤ|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|2|435
+</>
+128|DSA09019|KIỂM TRA CHU TRÌNH|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|2|385
+</>
+129|DSA01016|PHÂN TÍCH SỐ 1|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|757
+</>
+130|DSA01012|MÃ GRAY 1|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|1097
+</>
+131|DSA01017|MÃ GRAY 3|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|710
+</>
+132|DSA01013|MÃ GRAY 2|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|750
+</>
+133|DSA01009|XÂU AB ĐẶC BIỆT|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|844
+</>
+134|DSA01010|TẬP QUÂN SỰ|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|860
+</>
+135|DSA01011|HOÁN VỊ TIẾP THEO CỦA CHUỖI SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|735
+</>
+136|DSA02008|CHỌN SỐ TỪ MA TRẬN VUÔNG CẤP N|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|690
+</>
+137|DSA01015|TÌM BỘI SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|689
+</>
+138|DSA02004|DI CHUYỂN TRONG MÊ CUNG 2|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|565
+</>
+139|DSA02007|ĐỔI CHỖ CÁC CHỮ SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|618
+</>
+140|DSA02013|SỐ NGUYÊN TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|401
+</>
+141|DSA02017|SẮP XẾP QUÂN HẬU 2|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|737
+</>
+142|DSA01014|TẬP HỢP|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|543
+</>
+143|DSA03007|GIÁ TRỊ NHỎ NHẤT CỦA BIỂU THỨC|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|634
+</>
+144|DSA03008|SẮP XẾP CÔNG VIỆC 1|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|733
+</>
+145|DSA03009|SẮP XẾP CÔNG VIỆC 2|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|493
+</>
+146|DSA03011|NỐI DÂY 2|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|507
+</>
+147|DSA03016|SỐ NHỎ NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|608
+</>
+148|DSA03017|GIÁ TRỊ NHỎ NHẤT CỦA XÂU|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|667
+</>
+149|DSA03018|SỐ MAY MẮN|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|578
+</>
+150|DSA03019|PHÂN SỐ ĐƠN VỊ|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|521
+</>
+151|DSA03020|BIỂU THỨC ĐÚNG|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|293
+</>
+152|DSA04007|HỆ CƠ SỐ K|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|404
+</>
+153|DSA04013|SẮP XẾP KANGURU|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|553
+</>
+154|DSA04008|SỐ FIBONACCI THỨ N|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|510
+</>
+155|DSA04009|LŨY THỪA MA TRẬN 1|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|423
+</>
+156|DSA04012|TÍCH ĐA THỨC|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|392
+</>
+157|DSA04011|TÍCH HAI SỐ NHỊ PHÂN|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|2|507
+</>
+158|DSA05018|XÂU CON ĐỐI XỨNG DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|662
+</>
+159|DSA05019|HÌNH VUÔNG LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|451
+</>
+160|DSA05020|ĐƯỜNG ĐI NHỎ NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|445
+</>
+161|DSA05014|CATALAN NUMBER|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|243
+</>
+162|DSA05015|TÍNH P(N,K)|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|739
+</>
+163|DSA05016|SỐ UGLY|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|497
+</>
+164|DSA05003|DÃY CON CHUNG DÀI NHẤT CỦA BA XÂU|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|423
+</>
+165|DSA05006|TỔNG LỚN NHẤT CỦA DÃY CON TĂNG DẦN|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|458
+</>
+166|DSA05017|DÃY SỐ BI-TONIC|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|386
+</>
+167|DSA05022|KÝ TỰ GIỐNG NHAU|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|326
+</>
+168|DSA05023|TỔNG CÁC XÂU CON|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|442
+</>
+169|DSA05024|TỔNG BẰNG K|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|374
+</>
+170|DSA05007|TỔNG LỚN NHẤT CỦA DÃY CON KHÔNG KỀ NHAU|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|383
+</>
+171|DSA05028|BIẾN ĐỔI XÂU|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|437
+</>
+172|DSA05031|TỔNG BÌNH PHƯƠNG|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|415
+</>
+173|DSA07008|BIẾN ĐỔI TRUNG TỐ - HẬU TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|520
+</>
+174|DSA07011|BIẾN ĐỔI HẬU TỐ - TIỀN TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|590
+</>
+175|DSA07012|BIẾN ĐỔI HẬU TỐ - TRUNG TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|613
+</>
+176|DSA07016|BIỂU THỨC TĂNG GIẢM|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|434
+</>
+177|DSA07017|PHẦN TỬ BÊN PHẢI NHỎ HƠN|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|333
+</>
+178|DSA07029|GIẢI MÃ XÂU KÝ TỰ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|2|267
+</>
+179|DSA08004|GIÁ TRỊ NHỎ NHẤT CỦA XÂU|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|2|545
+</>
+180|DSA08009|BIẾN ĐỔI S – T|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|2|430
+</>
+181|DSA09009|TÌM SỐ THÀNH PHẦN LIÊN THÔNG VỚI BFS|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|537
+</>
+182|DSA09010|KIỂM TRA TÍNH LIÊN THÔNG MẠNH|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|496
+</>
+183|DSA09012|LIỆT KÊ ĐỈNH TRỤ|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|536
+</>
+184|DSA09014|KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ VÔ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|384
+</>
+185|DSA10003|KIỂM TRA CHU TRÌNH SỬ DỤNG DISJOIN SET|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|247
+</>
+186|DSA09016|KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ CÓ HƯỚNG VỚI DFS|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|336
+</>
+187|DSA09015|KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ CÓ HƯỚNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|315
+</>
+188|DSA09017|KIỂM TRA ĐỒ THỊ CÓ PHẢI LÀ CÂY HAY KHÔNG|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|352
+</>
+189|DSA09011|SỐ LƯỢNG HÒN ĐẢO|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|266
+</>
+190|DSA10001|TÌM ĐƯỜNG|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|2|95
+</>
+191|DSA09032|KẾT BẠN|CÁC MÔ HÌNH THUẬT TOÁN|Duyệt đồ thị|2|287
+</>
+192|DSA10006|CÂY KHUNG CỦA ĐỒ THỊ THEO THUẬT TOÁN DFS|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|2|286
+</>
+193|DSA10007|CÂY KHUNG CỦA ĐỒ THỊ THEO THUẬT TOÁN BFS|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|2|296
+</>
+194|DSA11001|CÂY BIỂU THỨC 1|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|334
+</>
+195|DSA11002|CÂY BIỂU THỨC 2|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|281
+</>
+196|DSA11003|DUYỆT CÂY 1|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|360
+</>
+197|DSA11004|DUYỆT CÂY THEO MỨC|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|361
+</>
+198|DSA11005|DUYỆT CÂY 2|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|108
+</>
+199|DSA11008|KIỂM TRA NODE LÁ|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|2|547
+</>
+200|DSA07028|NHỊP CHỨNG KHOÁN|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|2|203
+
+
+</>
+201|DSA05042|DÃY CON LIÊN TIẾP TỔNG BẰNG K|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|164
+</>
+202|DSA06044|SẮP XẾP CHẴN LẺ|CÁC MÔ HÌNH THUẬT TOÁN|Sắp xếp - Tìm kiếm|2|401
+</>
+203|CTDL_003|PHƯƠNG ÁN TỐI ƯU|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|142
+</>
+204|DSA02039|PHÂN TÍCH SỐ 2|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|208
+</>
+205|DSA02032|TỔ HỢP SỐ CÓ TỔNG BẰNG X|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|219
+</>
+206|DSA02045|TẬP CON CỦA XÂU KÝ TỰ|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|221
+</>
+207|DSA02025|KÝ TỰ LẶP|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|68
+</>
+208|DSA02026|PHÉP TOÁN CƠ BẢN|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|2|25
+</>
+209|DSA03021|TÌM DÃY SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|43
+</>
+210|CTDL_004|DÃY CON TĂNG DẦN BẬC K|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|2|258
+</>
+211|DSA03023|SẮP XẾP VIÊN BI|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|2|42
+</>
+212|DSA05035|CHỮ SỐ SẮP XẾP TĂNG DẦN|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|60
+</>
+213|DSA02041|BIẾN ĐỔI VỀ 1|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Quay lui - Nhánh cận|2|220
+</>
+214|DSA05040|DÃY TAM GIÁC DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|2|99
+</>
+215|DSA08025|QUÂN MÃ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Hàng đợi|2|134
+</>
+216|DSA07041|BIỂU THỨC ĐÚNG DÀI NHẤT|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|2|194
+</>
+217|DSA09028|TÔ MÀU ĐỒ THỊ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|2|142
+</>
+218|DSA09029|ĐƯỜNG ĐI HAMILTON|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|2|181
+</>
+219|DSA09030|ĐỒ THỊ HAI PHÍA|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|2|134
+</>
+220|DSA09033|MẠNG XÃ HỘI|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|2|105
+</>
+221|DSA09036|GIẤY KHAI SINH|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|2|39
+</>
+222|DSA05032|XÂU ĐỐI XỨNG 1|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|283
+</>
+223|DSA05033|XÂU ĐỐI XỨNG 2|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|212
+</>
+224|DSA10008|DIJKSTRA|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|3|187
+</>
+225|DSA10009|FLOYD|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|3|199
+</>
+226|DSA02011|MÁY ATM|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|272
+</>
+227|DSA02009|CHIA MẢNG|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|363
+</>
+228|DSA02010|TỔ HỢP SỐ CÓ TỔNG BẰNG X|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|300
+</>
+229|DSA02015|LOẠI BỎ DẤU NGOẶC|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|28
+</>
+230|DSA02022|NGƯỜI DU LỊCH|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|403
+</>
+231|DSA03014|SỐ KHỐI LẬP PHƯƠNG|CÁC MÔ HÌNH THUẬT TOÁN|Giải thuật tham lam|3|207
+</>
+232|DSA04006|ĐẾM SỐ BÍT 1|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|3|193
+</>
+233|DSA04014|CẶP NGHỊCH THẾ|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|3|115
+</>
+234|DSA05010|DÃY CON DÀI NHẤT CÓ TỔNG CHIA HẾT CHO K|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|233
+</>
+235|DSA05011|SỐ CÓ TỔNG CHỮ SỐ BẰNG K|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|236
+</>
+236|DSA05021|CẶP SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|348
+</>
+237|DSA05030|DI CHUYỂN VỀ GỐC TỌA ĐỘ|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|483
+</>
+238|DSA07005|BIỂU THỨC TƯƠNG ĐƯƠNG|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|3|438
+</>
+239|DSA07006|XÓA DẤU NGOẶC|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|3|187
+</>
+240|DSA07007|SO SÁNH BIỂU THỨC|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|3|346
+</>
+241|DSA07018|TỔNG ĐA THỨC|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|3|136
+</>
+242|DSA08010|BIẾN ĐỔI SỐ TỰ NHIÊN|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|3|245
+</>
+243|DSA08012|TÌM SỐ K THỎA MÃN ĐIỀU KIỆN|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|3|258
+</>
+244|DSA08029|QUAY HÌNH VUÔNG|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|3|97
+</>
+245|DSA11017|DUYỆT CÂY NHỊ PHÂN TÌM KIẾM 1|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|238
+</>
+246|DSA11006|DUYỆT CÂY KIỂU XOẮN ỐC|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|132
+</>
+247|DSA11010|CÂY NHỊ PHÂN HOÀN HẢO|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|310
+</>
+248|DSA11011|CÂY NHỊ PHÂN ĐỦ|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|288
+</>
+249|DSA11012|CÂY NHỊ PHÂN BẰNG NHAU|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|265
+</>
+250|DSA11014|TỔNG NODE LÁ BÊN PHẢI|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|218
+</>
+251|DSA11015|TỔNG LỚN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|84
+</>
+252|DSA11016|BIẾN ĐỔI SANG CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|184
+</>
+253|DSA11018|XÂY DỰNG LẠI CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|217
+</>
+254|DSA11019|DUYỆT CÂY NHỊ PHÂN TÌM KIẾM 2|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|150
+</>
+255|DSA11020|KIỂM TRA CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|157
+</>
+256|DSA11021|NODE LÁ CỦA CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|253
+</>
+257|DSA11022|NODE TRUNG GIAN CỦA CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|182
+</>
+258|DSA11023|ĐỘ SÂU CÂY NHỊ PHÂN TÌM KIẾM|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|178
+</>
+259|DSA11024|CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG 1|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|188
+</>
+260|DSA11025|CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG 2|CÁC MÔ HÌNH THUẬT TOÁN|Cây nhị phân|3|197
+</>
+261|DSA07030|HÌNH CHỮ NHẬT 0-1|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|3|46
+</>
+262|DSA01018|TẬP CON LIỀN KỀ PHÍA TRƯỚC|CÁC MÔ HÌNH THUẬT TOÁN|Sinh kế tiếp|3|314
+</>
+263|DSA10011|DI CHUYỂN TRÊN BẢNG SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|3|51
+</>
+264|DSA10012|ĐƯỜNG ĐI TRUNG BÌNH|CÁC MÔ HÌNH THUẬT TOÁN|Đồ thị nâng cao|3|75
+</>
+265|DSA11028|ĐỘ CAO CỦA CÂY|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Cây nhị phân|3|159
+</>
+266|DSA11029|ĐƯỜNG ĐI TỚI NODE LÁ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Cây nhị phân|3|50
+</>
+267|DSA08020|BIẾN ĐỔI SỐ NGUYÊN TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|3|203
+</>
+268|DSA02028|CHIA ĐỀU|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|3|29
+</>
+269|DSA06045|XÂU TỐT|CÁC MÔ HÌNH THUẬT TOÁN||3|12
+</>
+270|DSA07024|GHÉP VÁN GỖ|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|3|34
+</>
+271|DSA08022|BỘI SỐ LỚN NHẤT CỦA 3|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Hàng đợi|3|59
+</>
+272|DSA05039|TỔNG CHỮ SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|3|54
+</>
+273|DSA09031|CHÚ CỪU XA CÁCH|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|3|36
+</>
+274|DSA09049|LAN TRUYỀN DINH DƯỠNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|3|23
+</>
+275|DSA09034|ĐẾM SỐ AO|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|3|124
+</>
+276|DSA09037|HỌP MẶT|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|3|46
+</>
+277|DSA10015|KRUSKAL|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Đồ thị nâng cao|3|122
+</>
+278|DSA10017|CHU TRÌNH ÂM|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Đồ thị nâng cao|3|98
+</>
+279|DSA02014|TỪ ĐIỂN|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|4|198
+</>
+280|DSA02018|BIỂU THỨC TOÁN HỌC|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|4|125
+</>
+281|DSA02019|ĐƯỜNG ĐI DÀI NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|4|143
+</>
+282|DSA02020|SỐ NHỎ NHẤT CÓ N ƯỚC SỐ|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|4|265
+</>
+283|DSA02021|KÝ TỰ ĐẶC BIỆT|CÁC MÔ HÌNH THUẬT TOÁN|Quay lui - Nhánh cận|4|119
+</>
+284|DSA07015|TÍNH TOÁN GIÁ TRỊ BIỂU THỨC TRUNG TỐ|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|4|139
+</>
+285|DSA08011|KHOẢNG CÁCH XÂU KÝ TỰ|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|4|82
+</>
+286|DSA08013|DI CHUYỂN TRÁNH VẬT CẢN|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|4|72
+</>
+287|DSA08014|GIEO MẦM|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|4|64
+</>
+288|DSA08015|DI CHUYỂN TRONG KHÔNG GIAN|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|4|60
+</>
+289|DSA08045|HÀNG RÀO|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|4|6
+</>
+290|DSA07022|PHẦN TỬ CÓ SỐ LẦN XUẤT HIỆN NHIỀU HƠN BÊN PHẢI|CÁC MÔ HÌNH THUẬT TOÁN|Ngăn xếp|4|135
+</>
+291|DSA11026|DUYỆT SAU CÂY TÌM KIẾM CÂN BẰNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Cây nhị phân|4|105
+</>
+292|DSA11027|ĐẾM SỐ NODE LÁ CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Cây nhị phân|4|109
+</>
+293|DSA11030|KHOẢNG CÁCH GIỮA HAI NODE|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Cây nhị phân|4|50
+</>
+294|DSA04030|SỐ TRIBONACCI|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|4|28
+</>
+295|DSA07045|GÕ BÀN PHÍM|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Ngăn xếp|4|41
+</>
+296|DSA05045|BÀI TOÁN CÁI TÚI KHÔNG NGUYÊN|CÁC MÔ HÌNH THUẬT TOÁN|Quy hoạch động|4|31
+</>
+297|DSA09040|MÊ CUNG|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Duyệt đồ thị|4|3
+</>
+298|DSA10016|NỐI ĐIỂM|CÁC CẤU TRÚC DỮ LIỆU CƠ BẢN|Đồ thị nâng cao|4|50
+</>
+299|DSA04019|CẶP ĐIỂM GẦN NHẤT|CÁC MÔ HÌNH THUẬT TOÁN|Chia và trị|5|71
+</>
+300|DSA08016|HEXGAME|CÁC MÔ HÌNH THUẬT TOÁN|Hàng đợi|5|17
+

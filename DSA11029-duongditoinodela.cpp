@@ -29,7 +29,7 @@ void dfs(int u)
         }
     }
 }
-void Run()
+void solve()
 {
     cin >> n;
     g.clear(); g.resize(n + 1);
@@ -60,6 +60,6 @@ int main()
 {
     int t;
     cin >> t;
-    while(t--) Run();
+    while(t--) solve();
     return 0;
 }
