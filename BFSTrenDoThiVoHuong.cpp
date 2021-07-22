@@ -39,6 +39,7 @@ int main()
             ke[u].push_back(v);
             ke[v].push_back(u);
         }
+        cout << "BFS(" << nguon <<") = ";
         BFS(nguon);
         cout << endl;
     }
